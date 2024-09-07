@@ -13,7 +13,4 @@ _Objective_: Create a table to store invoice details.
 Ensure the ProductID references the product table (foreign key).
 Use appropriate data types and domains.
 ## 3. Input Screen Setup
-a. Display All Products <space><space>
-b. Display Invoices for a Specific Product 
-c.Recalculate and Update Invoice Amounts 
-d.Invoice Summary by Product
+a. Display All Products <space><space> b. Display Invoices for a Specific Product <space><space> c.Recalculate and Update Invoice Amounts <space><space> d.Invoice Summary by Product
