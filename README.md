@@ -16,9 +16,9 @@ a. Display All Products
 
 b. Display Invoices for a Specific Product 
 
-c.Recalculate and Update Invoice Amounts 
+c. Recalculate and Update Invoice Amounts 
 
-d.Invoice Summary by Product
+d. Invoice Summary by Product
 
 # ABAP_Project 2
 ## Part A: ABAP Report with Local Class
