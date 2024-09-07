@@ -3,7 +3,6 @@
 _Objective_: Create a table to store product details.
 ### Requirements:
 - Include at least 5 fields + client number.
-Carefully choose data types and lengths to optimize memory.
 Example fields: ProductID, ProductName, Category, Price, StockQuantity, ClientNumber.
 Use data elements and domains to maintain consistency.
 ## 2. Database Table for Invoices
