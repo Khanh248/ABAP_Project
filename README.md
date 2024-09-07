@@ -19,3 +19,10 @@ b. Display Invoices for a Specific Product
 c.Recalculate and Update Invoice Amounts 
 
 d.Invoice Summary by Product
+
+# ABAP_Project 2
+## Part A: ABAP Report with Local Class
+* Create the report and add an include statement to include definition and
+implementation of the local class LCL_PRODUCTS.
+## Part B: Dynamic Program with Dynpros
+* Create a dynamic program with multiple screens to display and maintain product records.
